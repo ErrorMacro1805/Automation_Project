@@ -6,8 +6,5 @@ public class AgeChecker {
     public boolean canPlayGame (int age){
         return age>=MIN_AGE;
     }
-    public boolean CantPlayGame (int age_min)
-        {
-            return age_min<MIN_AGE;
-        }
+
 }

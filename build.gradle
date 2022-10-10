@@ -16,5 +16,6 @@ dependencies {
 }
 
 test {
+    System.out.println("In test task")
     useTestNG()
 }
